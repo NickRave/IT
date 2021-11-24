@@ -8,7 +8,7 @@ namespace tisd4
         struct BaggageOfPassenger
         {
             public string nameofpassenger; // имя пассажир
-            public int veschi; // количество вещей
+            public int veschi; // количество вещей//
             public double ves; // вес в кг 
             public BaggageOfPassenger(string nameofpassenger, int veschi, double ves)
             {
