@@ -20,7 +20,7 @@ namespace tisd4
         static void Main(string[] args)
         {
             List<BaggageOfPassenger> bop = new List<BaggageOfPassenger>();
-            bop.Add(new BaggageOfPassenger("Greg",       5,   4.231)); // добавление
+            bop.Add(new BaggageOfPassenger("Greg",       5,   4.231)); 
             bop.Add(new BaggageOfPassenger("Antuan",     7,   5.878));
             bop.Add(new BaggageOfPassenger("Alukard",    10,  3.120));
             bop.Add(new BaggageOfPassenger("Aiden",      13,  2.516));
