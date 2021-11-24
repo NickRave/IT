@@ -1,0 +1,14 @@
+D:\Visual Studio 2019\tisd4\tisd4\bin\Debug\netcoreapp3.1\tisd4.exe
+D:\Visual Studio 2019\tisd4\tisd4\bin\Debug\netcoreapp3.1\tisd4.deps.json
+D:\Visual Studio 2019\tisd4\tisd4\bin\Debug\netcoreapp3.1\tisd4.runtimeconfig.json
+D:\Visual Studio 2019\tisd4\tisd4\bin\Debug\netcoreapp3.1\tisd4.runtimeconfig.dev.json
+D:\Visual Studio 2019\tisd4\tisd4\bin\Debug\netcoreapp3.1\tisd4.dll
+D:\Visual Studio 2019\tisd4\tisd4\bin\Debug\netcoreapp3.1\tisd4.pdb
+D:\Visual Studio 2019\tisd4\tisd4\obj\Debug\netcoreapp3.1\tisd4.csproj.AssemblyReference.cache
+D:\Visual Studio 2019\tisd4\tisd4\obj\Debug\netcoreapp3.1\tisd4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2019\tisd4\tisd4\obj\Debug\netcoreapp3.1\tisd4.AssemblyInfoInputs.cache
+D:\Visual Studio 2019\tisd4\tisd4\obj\Debug\netcoreapp3.1\tisd4.AssemblyInfo.cs
+D:\Visual Studio 2019\tisd4\tisd4\obj\Debug\netcoreapp3.1\tisd4.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\tisd4\tisd4\obj\Debug\netcoreapp3.1\tisd4.dll
+D:\Visual Studio 2019\tisd4\tisd4\obj\Debug\netcoreapp3.1\tisd4.pdb
+D:\Visual Studio 2019\tisd4\tisd4\obj\Debug\netcoreapp3.1\tisd4.genruntimeconfig.cache
